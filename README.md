@@ -71,7 +71,7 @@ All **suggestions/PR** are welcome!
 ### Code Contributors
 
 This project exists thanks to all the people who contribute.
-
+ok
 <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
 
 ### Financial Contributors
